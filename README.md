@@ -1,10 +1,10 @@
 # yoostan
 
-FIXME: description
+A homonym for _Housan, Texas_ and referring to _Mission Control_ for NASA space missions.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+TODO: `brew.sh`
 
 ## Usage
 
